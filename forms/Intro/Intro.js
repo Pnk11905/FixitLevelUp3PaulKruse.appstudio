@@ -1,5 +1,4 @@
 //Changing calculators 
-/*
 
 btnHomeLoanPayment.onclick=function(){
   ChangeForm(homeLoanPayment)
@@ -7,5 +6,4 @@ btnHomeLoanPayment.onclick=function(){
 
 btnCarLoanPayment.onclick=function(){
   ChangeForm(carLoanPayment)
-}
-*/
+  }

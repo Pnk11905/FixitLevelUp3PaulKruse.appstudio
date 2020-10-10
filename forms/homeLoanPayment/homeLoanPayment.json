@@ -25,7 +25,7 @@
         "forms",
         "homeLoanPayment",
         "Elements",
-        "InMonths.json"
+        "InYears.json"
       ]
     },
     {
@@ -52,7 +52,7 @@
         "forms",
         "homeLoanPayment",
         "Elements",
-        "Button3.json"
+        "btnBackHome.json"
       ]
     },
     {
@@ -70,7 +70,7 @@
         "forms",
         "homeLoanPayment",
         "Elements",
-        "Label1.json"
+        "lbHomeResult.json"
       ]
     }
   ],
